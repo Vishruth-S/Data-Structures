@@ -18,4 +18,7 @@ But, it’s not just about the t-shirts or stickers. Its about supporting open s
 
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code. You can contribute to anything from code to simple fix, new feature to grammar mistake.
 
+## But I am only a beginner?
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
+
 For more info: Visit [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
